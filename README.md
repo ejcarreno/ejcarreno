@@ -6,9 +6,8 @@ Hola, es un gusto tenerte por acá, te cuento un poco sobre mí, mi nombre es Ed
 💻Desarrollador Front-end (en proceso)<br>
 📚estudiante de contaduria pública<br>
 ✔Tecnico en Asistencia Administrativa<br>
-<styles>
-  html{background-color:black;
-  </styles>
+**[Facebook](https://www.facebook.com/EdgarJesusCarreno.Dev)** <br>
+**[Twitter](https://twitter.com/ejcarrenol)** 
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejcarreno&show_icons=true&theme=midnight-purple)
 
