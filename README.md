@@ -10,8 +10,8 @@ Hola, es un gusto tenerte por acá, te cuento un poco sobre mí, mi nombre es Ed
 **[Facebook](https://www.facebook.com/EdgarJesusCarreno.Dev)** <br>
 **[Twitter](https://twitter.com/ejcarrenol)** 
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejcarreno&show_icons=true&theme=midnight-purple)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejcarreno&show_icons=true&theme=buefy)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejcarreno&show_icons=true&theme=midnight-purple)](https://github.com/ejcarreno/github-readme-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ejcarreno&show_icons=true&theme=buefy)](https://github.com/ejcarreno/github-readme-stats)
 
 
