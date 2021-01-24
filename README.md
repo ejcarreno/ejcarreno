@@ -8,7 +8,8 @@ Es un gusto tenerte por acá, ven te cuento un poco sobre mí, soy Edgar Jesus C
 📚estudiante de contaduria pública<br>
 ✔Tecnico en Asistencia Administrativa<br>
 **[Facebook](https://www.facebook.com/EdgarJesusCarreno.Dev)** <br>
-**[Twitter](https://twitter.com/ejcarrenol)** 
+**[Twitter](https://twitter.com/ejcarrenol)** <br>
+**[Linkedin](https://www.linkedin.com/in/edgarjesuscarreno/)**
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=ejcarreno&show_icons=true&theme=buefy)
 
